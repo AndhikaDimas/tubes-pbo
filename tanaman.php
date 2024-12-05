@@ -1,5 +1,5 @@
 <?php
-
+//andika
 echo "cara membuat nasi goreng";
 echo "----------------";
 echo "nasi putih";
@@ -13,4 +13,6 @@ echo "1siung bawang putih, iris halus";
 echo "Panaskan minyak, tumis bawang putih, bawang merah hingga harum.";
 echo "Tambahkan nasi, Royco Kaldu Ayam, dan Bango Kecap Manis, aduk rata";
 echo "lalu makan";
+
+
 
