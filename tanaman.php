@@ -5,4 +5,6 @@ echo "----------------";
 echo "nasi purih";
 echo "kecap";
 echo "2 sdm minyak goreng";
-echo "";
+
+//arif
+echo "oke";
