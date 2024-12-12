@@ -14,5 +14,14 @@ echo "Panaskan minyak, tumis bawang putih, bawang merah hingga harum.";
 echo "Tambahkan nasi, Royco Kaldu Ayam, dan Bango Kecap Manis, aduk rata";
 echo "lalu makan";
 
+//rizki
+echo "pergi ke pasar";
+echo "cari penjual cabai";
+echo "beli cabai";
+echo "cuci cabai";
+echo "potong cabai";
+echo "giling cabai";
+echo "masukan ke panci";
+echo "masak bersama nasi goreng";
 
 
