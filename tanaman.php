@@ -1,13 +1,13 @@
 <?php
-//andika
-echo "cara membuat nasi goreng";
-echo "----------------";
-echo "nasi putih";
-echo "kecap";
-echo "2 sdm minyak goreng";
-echo "1 batang daun bawang";
-echo "70g wortel, kupas, potong dadu kecil";
-echo "1siung bawang putih, iris halus";
+//Andhika Dimas
+echo "cara membuat nasi goreng ala-ala";
+echo "Siapkan nasi putih, Bawang merah, Bawang Putih, Telor, Kecap, Bumbu Racik(nasi goreng";
+echo "Irisi bawang merah dan bawang putih terlebih dahulu";
+echo "Panaskan minyak goreng, lalu tumis irisan bawang merah dan bawang putih";
+echo "Masukan Telor, lalu diaduk sampai setengah matang";
+echo "Masukan nasi kedalam wajan tadi, lalu aduk sampai semuanya bener-bener merata dan mendekati warna kecoklatan";
+echo "Masukan bumbu racik dan kecap kedalam nasi goreng yang hampir matang, aduk sampai merata dan matang";
+echo "Nasi Goreng ala sendiri pun siap dihidangkan";
 
 //arif
 echo "Panaskan minyak, tumis bawang putih, bawang merah hingga harum.";
